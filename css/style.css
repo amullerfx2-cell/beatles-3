@@ -1,0 +1,25 @@
+
+
+body{
+  margin:0;
+  font-family: Arial, sans-serif;
+  background: url("../img/bg_soft.jpg") no-repeat center center fixed;
+  background-size: cover;
+}
+
+.wrapper{
+  max-width: 900px;
+  margin: 24px auto;
+  padding: 20px 22px;
+  background: rgba(255,255,255,0.88);
+  border-radius: 14px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.25);
+}
+
+.nav{
+  text-align: center;
+  padding: 12px 8px;
+  background: rgba(255,255,255,0.92);
+  border-bottom: 1px solid #ddd;
+  font-size: 18px;
+}
